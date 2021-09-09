@@ -1,12 +1,16 @@
 
+// 参照リンク
+// Create a txt file in Extendscript
 // https://community.adobe.com/t5/after-effects/create-a-txt-file-in-extendscript/m-p/9645024
-
+// property object
 // https://ae-scripting.docsforadobe.dev/properties/property/
 
 // --------------------------------------------------------
 // 設定
 // --------------------------------------------------------
-var FRAME_RATE = 30.0;
+// フレームレート
+var FRAME_RATE   = 30.0;
+// 合計秒数
 var TOTAL_SECOND = 24.0;
 
 // --------------------------------------------------------
